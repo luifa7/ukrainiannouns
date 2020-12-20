@@ -1,0 +1,3 @@
+https://hash2date.herokuapp.com/
+https://hash2date.herokuapp.com/about
+https://hash2date.herokuapp.com/contact
