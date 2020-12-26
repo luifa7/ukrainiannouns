@@ -11,7 +11,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-var apiNounsURL = "https://ukrainian-cases.herokuapp.com/nouns"
+var apiNounsURL = "https://ukrainian-cases-api.herokuapp.com/nouns"
 var genderPath = "/gender"
 var nominativePath = "/nominative"
 var nyi = "Not yet implemented"
